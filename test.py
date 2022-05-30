@@ -1,3 +1,4 @@
 
 
-printn ("Hello world")
+print ("Hello world")
+print ("from b2")
