@@ -1,4 +1,6 @@
 
 
-printn ("Hello world")
-print ("branch 1")
+
+print ("Hello world")
+print ("from b2")
+
